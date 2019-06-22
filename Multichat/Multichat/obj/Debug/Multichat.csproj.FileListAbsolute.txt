@@ -1,0 +1,24 @@
+D:\Code\Multichat\Multichat\bin\Debug\Multichat.exe.config
+D:\Code\Multichat\Multichat\bin\Debug\Multichat.exe
+D:\Code\Multichat\Multichat\bin\Debug\Multichat.pdb
+D:\Code\Multichat\Multichat\obj\Debug\Multichat.csprojAssemblyReference.cache
+D:\Code\Multichat\Multichat\obj\Debug\Multichat.Form1.resources
+D:\Code\Multichat\Multichat\obj\Debug\Multichat.Properties.Resources.resources
+D:\Code\Multichat\Multichat\obj\Debug\Multichat.csproj.GenerateResource.cache
+D:\Code\Multichat\Multichat\obj\Debug\Multichat.csproj.CoreCompileInputs.cache
+D:\Code\Multichat\Multichat\obj\Debug\Multichat.exe
+D:\Code\Multichat\Multichat\obj\Debug\Multichat.pdb
+D:\Code\Multichat\Multichat\obj\Debug\Multichat.Client.resources
+D:\Code\Multichat\Multichat\obj\Debug\Multichat.Sever.resources
+C:\Users\Lai The Hiep\Desktop\Multichat\Multichat\bin\Debug\Multichat.exe.config
+C:\Users\Lai The Hiep\Desktop\Multichat\Multichat\bin\Debug\Multichat.exe
+C:\Users\Lai The Hiep\Desktop\Multichat\Multichat\bin\Debug\Multichat.pdb
+C:\Users\Lai The Hiep\Desktop\Multichat\Multichat\obj\Debug\Multichat.csprojAssemblyReference.cache
+C:\Users\Lai The Hiep\Desktop\Multichat\Multichat\obj\Debug\Multichat.Client.resources
+C:\Users\Lai The Hiep\Desktop\Multichat\Multichat\obj\Debug\Multichat.Form1.resources
+C:\Users\Lai The Hiep\Desktop\Multichat\Multichat\obj\Debug\Multichat.Properties.Resources.resources
+C:\Users\Lai The Hiep\Desktop\Multichat\Multichat\obj\Debug\Multichat.Sever.resources
+C:\Users\Lai The Hiep\Desktop\Multichat\Multichat\obj\Debug\Multichat.csproj.GenerateResource.cache
+C:\Users\Lai The Hiep\Desktop\Multichat\Multichat\obj\Debug\Multichat.csproj.CoreCompileInputs.cache
+C:\Users\Lai The Hiep\Desktop\Multichat\Multichat\obj\Debug\Multichat.exe
+C:\Users\Lai The Hiep\Desktop\Multichat\Multichat\obj\Debug\Multichat.pdb
